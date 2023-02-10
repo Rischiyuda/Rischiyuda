@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rischiyuda/Rischiyuda/blob/output/github-contribution-grid-snake.svg)
  
 ## 🤝Collaboration
 
