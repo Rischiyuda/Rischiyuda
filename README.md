@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+
+[![Gmail Badge](https://img.shields.io/badge/-rischiyuda17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rischiyuda17@gmail.com)](mailto:rischiyuda17@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/rischi.yuda-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rischi.yuda/)](https://www.facebook.com/rischi.yuda/)
+[![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) 
+[![LinkedIn](https://img.shields.io/badge/-Rischi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischi-yuda-ryo17)
+
 
 <!--
 **Rischiyuda/Rischiyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +62,6 @@ Here are some ideas to get you started:
 
 ## 🤖Author
 
-  [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) [![LinkedIn](https://img.shields.io/badge/-Rischi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischi-yuda-ryo17)
 
 <hr>
 <p align="center">
