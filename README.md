@@ -11,7 +11,9 @@ I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang develop
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **Bachelor's in Natural Science**.
+      
       🌱 I am currently learning **Golang** and also interested in **Web Development**.
+      
       ✨ I love to create different types of **contents**.
 <td >
 # this is my daily.dev card, you can edit this accordingly
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 - [Jerry Young](https://github.com/jackthepanda96) for Mentor [github-readme-stats](https://github.com/jackthepanda96)
 - [Fakhry Firdaus](https://github.com/iffakhry) for First Mentor [github-profile-views-counter](https://github.com/iffakhry)
 
-## 🙇 Sponsors
+<!-- ## 🙇 Sponsors -->
 
 <!-- - [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him. -->
 
@@ -72,8 +74,12 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## 🤖Author
-
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?Rischiyuda=#Rischiyuda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Rischiyuda" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?Rischiyuda=#Rischiyuda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Rischiyuda" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Rischiyuda&theme=highcontrast&hide_border=true" alt="#Rischiyuda" />
+</p>
 
 <hr>
 <p align="center">
