@@ -7,7 +7,19 @@ I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang develop
 [![Facebook Badge](https://img.shields.io/badge/rischi.yuda-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rischi.yuda/)](https://www.facebook.com/rischi.yuda/)
 [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) 
 [![LinkedIn](https://img.shields.io/badge/-Rischi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischi-yuda-ryo17)
-
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Natural Science**.
+      🌱 I am currently learning **Golang** and also interested in **Web Development**.
+      ✨ I love to create different types of **contents**.
+<td >
+# this is my daily.dev card, you can edit this accordingly
+      <a href="https://app.daily.dev/Ryo17"><img src="https://api.daily.dev/devcards/b90c3dbdd9bc452682eb2aa27d37a132.png?r=k9r" width="400" alt="RISCHI YUDA OKTAVIANUS's Dev Card"/></a>
+    </td>
+    
+  </tr>
+  </table>
 
 <!--
 **Rischiyuda/Rischiyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
