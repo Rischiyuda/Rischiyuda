@@ -32,6 +32,11 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=go,mysql,vscode,aws,docker&perline=3" />
   </a>
 </p>
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ 
 ## 🤝Collaboration
 
 - [Discord](https://discord.com/)
@@ -53,4 +58,8 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
 Developed with ❤️ in Indonesia 🇮na
+</p>
+ 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
