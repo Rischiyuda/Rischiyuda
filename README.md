@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi guys!&height=100&section=header"/>
+</p>
 <!--
 **Rischiyuda/Rischiyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +30,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,mysql,vscode,aws,docker&perline=3" />
+    <img src="https://skillicons.dev/icons?i=go,mysql,vscode,aws,docker&perline=3" />    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   </a>
 </p>
 
