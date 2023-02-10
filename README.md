@@ -38,9 +38,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-(https://github.com/Rischiyuda)
  
 ## 🤝Collaboration
 
