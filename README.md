@@ -158,7 +158,7 @@ npm start
 <p align="left">
 <a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
+<a href="https://twitter.com/yudhaR3HADT">
 <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
 </a>
 </p>
@@ -170,7 +170,7 @@ npm start
 </p>
 ## 🤖Author
 
-  [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) 
+  [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) [![LinkedIn](https://img.shields.io/badge/-Rischi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischi-yuda-ryo17)
 
 <hr>
 <p align="center">
