@@ -75,12 +75,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<!-- ## Stats📈
+## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?Rischiyuda=#Rischiyuda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Rischiyuda" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?Rischiyuda=#Rischiyuda&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Rischiyuda" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Rischiyuda&theme=highcontrast&hide_border=true" alt="#Rischiyuda" />
-</p> -->
+[![Rischi's github stats](https://github-readme-stats.vercel.app/api?username=Rischiyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <hr>
 <p align="center">
