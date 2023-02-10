@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <p align="center">
   
 [![Rischi's github stats](https://github-readme-stats.vercel.app/api?username=Rischiyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </p>
 
