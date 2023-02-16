@@ -98,9 +98,9 @@ Here are some ideas to get you started:
  
 ## 🤝Collaboration
 
-- [Discord](https://discord.com/)
+- [[Discord](https://discord.com/)
 - <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord&perline=3" />
+    <img src="https://skillicons.dev/icons?i=discord&perline=3" />]
   </a>
 
 ## 🙏 Support
