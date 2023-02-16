@@ -48,17 +48,40 @@ Here are some ideas to get you started:
 
 <!-- - [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him. -->
 
-## 💻 Built with
-<br /><br /><br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-    <img src="https://skillicons.dev/icons?i=go,mysql,vscode,aws,docker&perline=3" />    
-    
-  </a>
+<h3 align="Left">Programming Language :</h3>
+<p align="Left"> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
+      alt="go" width="40" height="40" /> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg"
+      alt="php" width="40" height="40" /> </a> 
 </p>
+ 
+<h3 align="Left">Tools :</h3>
+<p align="Left"> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png"
+      alt="php" width="40" height="40" /> </a> 
+  <a href="https://postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="c++" width="40" height="40" /> </a> 
+  <a href="https://www.dockere.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
+      alt="js" width="40" height="40" /> </a> 
+  <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"
+      alt="js" width="40" height="40" /> </a>
+  <a href="https://www.swagger.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"
+      alt="js" width="40" height="40" /> </a>
+  <a href="https://www.jwt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://vectorwiki.com/images/yEsJ6__jwt-io-json-web-token.svg"
+      alt="js" width="40" height="40" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+      alt="git" width="45" height="45"/> </a> 
+ </p>
 
  
 ## 🤝Collaboration
