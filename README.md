@@ -61,8 +61,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"
       alt="go" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg"
-      alt="mysql" width="40" height="40" /> </a> 
+<!--     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg"
+      alt="mysql" width="40" height="40" />   -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    </a>
 </p>
  
 <h3 align="Left">Tools :</h3>
