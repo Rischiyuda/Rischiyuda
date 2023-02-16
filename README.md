@@ -116,6 +116,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rischiyuda&show_icons=true&locale=en&layout=compact" alt="Rischiyuda" /></p>
 
 <hr>
 <p align="center"> If you're still reading, why not follow me ?? Let's Connect !!</p>
