@@ -7,6 +7,9 @@ I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang develop
 [![Facebook Badge](https://img.shields.io/badge/rischi.yuda-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rischi.yuda/)](https://www.facebook.com/rischi.yuda/)
 [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda) 
 [![LinkedIn](https://img.shields.io/badge/-Rischi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischi-yuda-ryo17)
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=F74DBD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rischi;Back+End+Developer;" alt="Typing SVG" /></a></h1>
+<h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" witdh="300" height="300"/></h1>
 <table>
   <tr>
     <td valign="center">
@@ -104,7 +107,7 @@ Here are some ideas to get you started:
 [![Rischi's github stats](https://github-readme-stats.vercel.app/api?username=Rischiyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Rischi's github stats-Dark](https://github-readme-stats.vercel.app/api?username=Rischiyuda&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rischiyuda/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rischiyuda&theme=dark#gh-dark-mode-only)<br/>
-<a href="https://github.com/Rischiyuda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rischiyuda&&show_icons=true&theme=radical" alt="Rischi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rischiyuda&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 </p>
