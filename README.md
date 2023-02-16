@@ -104,14 +104,16 @@ Here are some ideas to get you started:
 [![Rischi's github stats](https://github-readme-stats.vercel.app/api?username=Rischiyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Rischi's github stats-Dark](https://github-readme-stats.vercel.app/api?username=Rischiyuda&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rischiyuda/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rischiyuda&theme=dark#gh-dark-mode-only)<br/>
-  
+<a href="https://github.com/Rischiyuda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rischiyuda&&show_icons=true&theme=radical" alt="Rischi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rischiyuda&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
 </p>
 
 <hr>
+<p align="center"> If you're still reading, why not follow me ?? Let's Connect !!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 <p align="center">
-Developed with ❤️ in Indonesia 🇮na
+Made with ❤️ in Indonesia
 </p>
  
 <p align="left">
