@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       alt="go" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg"
-      alt="php" width="40" height="40" /> </a> 
+      alt="mysql" width="40" height="40" /> </a> 
 </p>
  
 <h3 align="Left">Tools :</h3>
