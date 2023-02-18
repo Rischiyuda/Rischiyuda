@@ -13,6 +13,9 @@ I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang develop
   <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="600" height="300"/>
 </div>
 <!-- <h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" witdh="300" height="300"/></h1> -->
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
 
 <table>
   <tr>
