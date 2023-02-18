@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p>
 I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
