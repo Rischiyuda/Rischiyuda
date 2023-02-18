@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 <p align="center">
   
 [![Rischi's github stats](https://github-readme-stats.vercel.app/api?username=Rischiyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rischiyuda&show_icons=true&locale=en&layout=compact" alt="Rischiyuda" /></p>
 [![Rischi's github stats-Dark](https://github-readme-stats.vercel.app/api?username=Rischiyuda&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rischiyuda/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rischiyuda&theme=dark#gh-dark-mode-only)<br/>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rischiyuda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
