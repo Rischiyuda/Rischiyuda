@@ -10,7 +10,7 @@ I am Rischi Yuda, currently working as a Backend Engineer. I am a Golang develop
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=F74DBD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rischi;Back+End+Developer;" alt="Typing SVG" /></a></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" height="100"/>
+<!--   <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200" height="100"/> -->
 </div>
 <!-- <h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" witdh="300" height="300"/></h1> -->
 <p align="center">
